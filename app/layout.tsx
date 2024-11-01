@@ -14,9 +14,6 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Christopher Rolando",
   description: "Portofolio",
-  icons: {
-    icon: "/assets/logo.png",
-  },
 };
 
 export default function RootLayout({
@@ -27,6 +24,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={jetbrainsMono.variable}>
+        <link rel="icon" href="/assets/logo.png" sizes="any" />
         <Header />
         <StairTransition />
         <PageTransition>{children}</PageTransition>
