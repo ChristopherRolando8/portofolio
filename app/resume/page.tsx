@@ -30,6 +30,11 @@ const experience = {
     description: "A dedicated frontend engineer with experience in developing and maintaining scalable web applications, particularly in payment systems and SaaS environments.",
     items: [
         {
+            company: "Koinsayang",
+            position: "Software Engineer - Frontend",
+            duration: "Apr 2025 - present",
+        },
+        {
             company: "Fazz Financial",
             position: "Software Engineer - Frontend",
             duration: "Oct 2022 - Oct 2024",
