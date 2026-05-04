@@ -15,7 +15,7 @@ export default function Home() {
                 Hello I'm <br /> <span className="text-accent">Christopher Rolando</span>
               </h1>
               <p className="max-w-[500px] mb-9 text-white/80">
-                Frontend Engineer with experience in SaaS and payment systems, driven by a strong passion for the web3 space.
+                Product Manager with experience in SaaS and payment systems, focused on building scalable crypto products and bridging business, compliance, and engineering.
               </p>
               <div className="flex flex-col xl:flex-row items-center gap-8">
                 <a href="/assets/cv.pdf" download>

@@ -9,7 +9,7 @@ import { motion } from "framer-motion"
 
 const about = {
     title: "About Me",
-    description: "Frontend Engineer with experience in SaaS and payment systems, driven by a strong passion for the web3 space",
+    description: "Product Manager (ex-Frontend Engineer) in Crypto | SaaS & Payments | Web3 Builder",
     info: [
         {
             fieldName: "Name",
@@ -27,12 +27,17 @@ const about = {
 }
 const experience = {
     title: "Experience",
-    description: "A dedicated frontend engineer with experience in developing and maintaining scalable web applications, particularly in payment systems and SaaS environments.",
+    description: "A Product Manager (ex-Frontend Engineer) experienced in scalable web applications, SaaS, and payment systems, focused on building impactful products in the crypto space.",
     items: [
         {
-            company: "Koinsayang",
+            company: "OSL Indonesia",
+            position: "Product Manager",
+            duration: "Mar 2026 - present",
+        },
+        {
+            company: "OSL Indonesia",
             position: "Software Engineer - Frontend",
-            duration: "Apr 2025 - present",
+            duration: "Apr 2025 - Mar 2026",
         },
         {
             company: "Fazz Financial",

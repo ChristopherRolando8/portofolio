@@ -13,6 +13,14 @@ import WorkSliderBtn from "@/components/WorkSliderBtn";
 
 const projects = [
   {
+  title: "OSL Indonesia Crypto Platform",
+  description: "Led product and engineering execution for a regulated crypto platform in Indonesia, covering exchange integrations, payment channels, and compliance-driven features. Operated end-to-end from requirement definition to go-live, bridging engineering, compliance, regulators (OJK/ICEx/CFX), and third-party providers (Xendit, DOKU, etc.). Delivered key initiatives including ICEx integration readiness, multi-bank payment channel expansion (1 → 11 channels), whitelist onboarding for controlled launch, and rebranding from Koinsayang to OSL. Ensured production stability, audit readiness, and successful transition from soft launch to public launch in a highly regulated environment.",
+  stack: [],
+  image: "/assets/osl.png",
+  live: '',
+  github: '',
+  },
+  {
     title: "PJP Kategori Izin 1 Bank Indonesia",
     description: "Build a payment gateway dashboard and payment link from scratch in order to obtain Bank Indonesia's 'Payment Initiation and Acquiring Service' and 'Remittance Service' license (PJP Kategori Izin 1)",
     stack: [{name: "ReactJS"}, {name: "Typescript"}, {name: "nx.dev"}, {name: "Material UI"}],
